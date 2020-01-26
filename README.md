@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
+The Getting Started tutorial covers the same major topics as this Tour of Heroes—components, template syntax, routing, services, and accessing data via HTTP—in a condensed format, following the most current best practices. 
+
+In this Tour of Heroes tutorial, you will build an app that helps a staffing agency manage its stable of heroes.
+
+This app has many of the features you'd expect to find in a data-driven application. It acquires and displays a list of heroes, edits a selected hero's detail, and navigates among different views of heroic data.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
